@@ -1,5 +1,3 @@
-### Documentation for the Code
-
 #### Overview
 
 This script demonstrates basic Natural Language Processing (NLP) techniques using the `nltk` library in Python. It includes text tokenization, stemming, lemmatization, and vectorization using both `CountVectorizer` and `TfidfVectorizer` from `sklearn`.
